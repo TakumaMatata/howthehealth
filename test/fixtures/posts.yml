@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  sickness: MyString
+  post_date: 2018-09-10
+  details: MyText
+
+two:
+  sickness: MyString
+  post_date: 2018-09-10
+  details: MyText
